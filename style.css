@@ -10,13 +10,14 @@
 }
 
 .main-header:before {
-    background: linear-gradient(54deg,rgba(66, 142, 241, 0.95) 34%,rgba(178, 156, 206, 0.95));
+    background: linear-gradient(54deg,rgba(66, 142, 241, 0.95) 34%,rgba(193, 67, 252, 0.89));
     height: 100%;
     left: 0;
     right: 0;
     position: absolute;
     content: "";
     z-index: 0;
+    opacity: .9;
 }
 
 /* 
