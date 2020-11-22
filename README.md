@@ -1,6 +1,6 @@
 # My Portfolio
 <h2>Getting Started</h2>
-<p>Thank for visiting my page, This is my Portfolio V2 where you could find my lastest work.</p>
+<p>Thank you for visiting my page! This is my Portfolio V2 where you will find my lastest work.</p>
 <h3>Preview:</h3>
 
 <p align="center">
