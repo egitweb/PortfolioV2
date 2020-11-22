@@ -11,6 +11,9 @@
 
 To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
 
+### Live Link
+* [PublicLink](https://egitweb.github.io/PortfolioV2/) - You can view my portfolio clicking on this link.
+
 ## Built With
 * [HTML] - Hypertext Markup Language
 * [Bootstrap](https://getbootstrap.com/) - Bootstrap is a free and open-source CSS framework
