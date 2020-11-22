@@ -1,6 +1,6 @@
 
 .main-header {
-    background-color: #6d56c1;
+    background-color: #5691c1;
     height: 100%;
     background-repeat: no-repeat;
     background-position: 50%;
@@ -10,7 +10,7 @@
 }
 
 .main-header:before {
-    background: linear-gradient(54deg,rgba(74,76,179,.95) 34%,hsla(0,34%,71%,.95));
+    background: linear-gradient(54deg,rgba(66, 142, 241, 0.95) 34%,rgba(178, 156, 206, 0.95));
     height: 100%;
     left: 0;
     right: 0;
@@ -18,6 +18,10 @@
     content: "";
     z-index: 0;
 }
+
+/* 
+* Profile, Bio , Contact Info *
+*/
 
 .portfolio-box {
     color: #fff;
@@ -44,10 +48,6 @@
     margin-top: 40px;
     margin-bottom: 10px;
 }
-
-
-
-
 
 .portfolio-box .profile-picture img {
     border-radius: 5px;
@@ -82,9 +82,6 @@
     color: #fff
 }
 
-.bio-list.bio-list__opacity-titles dt {
-    opacity: .4
-}
 
 
 .fa-linkedin-in{  
@@ -99,43 +96,50 @@
     opacity: .4
 }
 
-/* Skills */ 
-
-.resume-list {
-    margin-top: 30px;
-    margin-bottom: 30px
+.bio-list.bio_opacity-titles dt {
+    opacity: .4
 }
 
-.resume-list .resume-list_title {
+
+/* 
+* Skills & Progress Bar Style *
+*/
+
+.myskills {
+    margin-top: 30px
+}
+
+.myskills .myskills_title {
     font-family: Roboto Mono,monospace;
-    font-size: 14px;
-    line-height: 20px;
     letter-spacing: 5px;
-    text-transform: uppercase;
     font-weight: 700;
     color: #999;
     margin-bottom: 40px
 }
 
-.resume-list .resume-list__block {
-    border-left: 2px solid #6d56c1;
-    padding-left: 25px;
-    padding-bottom: 50px
+.myskills .myskills_title, .myskill p {
+    font-size: 14px;
+    line-height: 20px;
+    text-transform: uppercase
 }
 
-.resume-list .resume-list__block p {
-    margin: 0
+.myskills p {
+    width: 100%;
+    font-family: Inconsolata,monospace;
+    margin-bottom: 10px
 }
 
-.resume-list .resume-list__block:before {
-    width: 12px;
-    height: 12px;
-    border: 2px solid #6d56c1;
-    position: absolute;
-    content: "";
-    border-radius: 50%;
-    background-color: #fff;
-    left: 10px
+.myskills p .myskill-value {
+    float: right
+}
+
+.myskills .progress {
+    height: 6px;
+    margin-bottom: 30px
+}
+
+.myskills .progress .progress-bar {
+    background-color: #3184d1
 }
 
 
