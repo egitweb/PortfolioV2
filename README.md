@@ -3,7 +3,7 @@
 <p>Thank you for visiting my page! This is my Portfolio V2 where you will find my lastest work.</p>
 
 ### Live Link
-* [PublicLink](https://egitweb.github.io/PortfolioV2/) - You can view my portfolio clicking on this link.
+* [LiveLink](https://egitweb.github.io/PortfolioV2/) - You can view my portfolio clicking on this link.
 
 <h3>Preview:</h3>
 
