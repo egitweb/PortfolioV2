@@ -151,3 +151,22 @@
 }
 
 
+/* 
+* Work Box *
+*/
+
+#portfolio-box{
+   /* background-color: #3184d1; */
+   border: 0;
+}
+
+#projects-h1{
+    font-family: Inconsolata,monospace;
+    margin-bottom: 10px
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}

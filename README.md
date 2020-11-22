@@ -24,6 +24,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 
 ## Resources Used:
 * [w3schools](https://www.w3schools.com/) - The World's Largest Web Developer Site
+* [Bootstrap](https://getbootstrap.com/) - Bootstrap is a free and open-source CSS framework
 
 ## Authors
 
