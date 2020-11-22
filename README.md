@@ -17,6 +17,9 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 * [CSS] - Cascading Style Sheets
 * [FontAwesome](https://fontawesome.com/) - Icons
 
+## Resources Used:
+* [w3schools](https://www.w3schools.com/) - The World's Largest Web Developer Site
+
 ## Authors
 
 * *Eugenio Espinoza* - Initial work - [egitweb](https://github.com/egitweb)
