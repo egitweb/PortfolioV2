@@ -117,8 +117,14 @@
     margin-bottom: 40px
 }
 
-.myskills .myskills_title, .myskill p {
+ .myskill p {
     font-size: 14px;
+    line-height: 20px;
+    text-transform: uppercase
+}
+
+.myskills .myskills_title{
+    font-size: 35px;
     line-height: 20px;
     text-transform: uppercase
 }
