@@ -1,6 +1,10 @@
 # My Portfolio
 <h2>Getting Started</h2>
 <p>Thank you for visiting my page! This is my Portfolio V2 where you will find my lastest work.</p>
+
+### Live Link
+* [PublicLink](https://egitweb.github.io/PortfolioV2/) - You can view my portfolio clicking on this link.
+
 <h3>Preview:</h3>
 
 <p align="center">
@@ -11,8 +15,6 @@
 
 To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
 
-### Live Link
-* [PublicLink](https://egitweb.github.io/PortfolioV2/) - You can view my portfolio clicking on this link.
 
 ## Built With
 * [HTML] - Hypertext Markup Language
