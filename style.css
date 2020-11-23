@@ -62,10 +62,16 @@
     top: 40px
 }
 
+
+
 .bio-list {
     font-size: 16px;
     line-height: 24px;
     font-family: Roboto Mono,monospace
+}
+
+.bio-list.bio_opacity-titles dt {
+    opacity: .4
 }
 
 .bio-list dt {
@@ -83,6 +89,13 @@
     color: #fff
 }
 
+
+#social-title {
+    opacity: .4
+    
+}
+
+
 .fa-linkedin-in{  
     color: #fff
 }
@@ -92,14 +105,6 @@
 }
 
 
-
-.fa-linkedin-in, .fa-github{  
-    opacity: .4
-}
-
-.bio-list.bio_opacity-titles dt {
-    opacity: .4
-}
 
 
 
@@ -170,4 +175,10 @@
     width: 100%;
     height: 15vw;
     object-fit: cover;
+}
+
+.card-deck{
+
+padding: 10px;
+
 }
