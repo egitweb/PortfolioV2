@@ -89,6 +89,11 @@
     color: #fff
 }
 
+#resume-btn{
+    margin-left: 10px;
+    color: white;
+    background-color: rgb(130, 79, 226)
+}
 
 #social-title {
     opacity: .4
