@@ -1,6 +1,6 @@
 # My Portfolio
 <h2>Getting Started</h2>
-<p>Thank you for visiting my page! This is my Portfolio V2 where you will find my lastest work.</p>
+<p>Thank you for visiting my page! This is my Portfolio V2 where you will find my most recent work.</p>
 
 ### Live Link
 * [LiveLink](https://egitweb.github.io/PortfolioV2/) - You can view my portfolio clicking on this link.
